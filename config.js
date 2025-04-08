@@ -6,9 +6,9 @@
  */
 
 // email 登陆账号 如：xxxx@qq.com
-const emailName = 'xxxx@qq.com';
+const emailName = '349346868@qq.com';
 // email 登陆密码
-const emailPassword = 'aaaaabbbb';
+const emailPassword = 'dmcsjxbgjrtzcafh';
 // 接收者 邮箱
 const toEmail = 'xxx@qq.com';
 
